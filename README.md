@@ -31,9 +31,11 @@ Bem-vindo ao **Matrix Chat Stream**, um projeto React que combina um chat onde a
 
 ## Tecnologias Utilizadas 🛠️
 
-- React: Biblioteca para construção de interfaces de usuário.
-- Firebase: Plataforma de desenvolvimento de aplicativos web e móveis.
-- Vite: Build tool e bundler rápido e moderno para projetos web.
+- [React](https://reactjs.org/): Biblioteca para construção de interfaces de usuário.
+- [Firebase](https://firebase.google.com/): Plataforma de desenvolvimento de aplicativos web e móveis.
+- [Vite](https://vitejs.dev/): Build tool e bundler rápido e moderno para projetos web.
+- [Visual Studio Code](https://code.visualstudio.com/): Editor de código utilizado para desenvolvimento.
+- [ChatGPT](https://openai.com/): Modelo de linguagem utilizado para assistência técnica.
 
 ## Contribuição e Melhorias ✨
 
@@ -45,4 +47,4 @@ Este projeto está licenciado sob a [Licença MIT](./LICENSE).
 
 ---
 
-Feito com 💚 por [Seu Nome](https://seusite.com).
+Feito com 💚 por [Daniel Filipe](https://www.linkedin.com/in/daniel-filipe-779b9b18b/).
